@@ -19,8 +19,8 @@ A Flutter mobile app for managing student attendance — login, dashboard, stude
 
 1. Clone the repository
    ```
-   git clone https://github.com/reine-elkadri/projectapp3.git
-   cd projectapp3
+   git clone https://github.com/reine-elkadri/liu-app.git
+   cd liu-app
    ```
 
 2. Install dependencies
